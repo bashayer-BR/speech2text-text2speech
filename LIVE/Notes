@@ -1,0 +1,12 @@
+- [x] setup watson STT Service: cloud.ibm.com
+- [x] clone live STT code:https://github.com/IBM/watson-streaming-stt
+- [x] install depencise: pip install -r requirements.txt
+- [ ] install pipwin if error on windows installing pyaudio
+- [x] update setup/config with APYKEY
+- [x] Run live transction  
+
+models:https://https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-models
+
+APYKEY:7GaAUN5s2oQ-L4mHNekaJrI0KmT6HywPmYRCUVq0WVsM
+Region:us-south
+URL:https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/0bd30fbc-68e5-4c91-b5f7-c3bdc0e5980e
